@@ -1,0 +1,26 @@
+.heading{
+    font-size: 23px;
+    box-shadow: 15px  15px 8px firebrick;
+    width: 100%;
+    margin: 0%;
+}
+.note{
+    margin-top: 10px;
+    font-size: 13;
+    color: black;
+}
+.foot{
+   line-height: 3;
+   position: fixed;
+   color: white;
+   background-color: black; 
+   width: 100%;
+   bottom: 0%;
+   text-align: center;
+}
+Canvas{
+    border : 5px dashed blue;
+    box-shadow: 15px  15px 8px firebrick;
+    border-radius: 20px;
+    background-color: black;
+}
